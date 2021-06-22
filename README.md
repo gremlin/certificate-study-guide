@@ -17,7 +17,7 @@ Gremlin is also easy to try out more at the AWS marketplace: https://aws.amazon.
 # Recommended Reading 
 
 * Chaos Engineering: the history, principles, and practice https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/
-* Reducing MTTD for High-Severity Incidents https://www.gremlin.com/talks/certificate 
+* Reducing MTTD for High-Severity Incidents https://www.gremlin.com/oreilly-reducing-mttd-for-high-severity-incidents/
 * Testing disaster recovery with Chaos Engineering https://www.gremlin.com/community/tutorials/testing-disaster-recovery-with-chaos-engineering/ 
 * How to Install and Use Gremlin Locally with Docker Desktop https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/
 * Gremlin Scenarios Walkthrough https://www.gremlin.com/community/tutorials/gremlin-scenarios-walkthrough/

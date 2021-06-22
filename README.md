@@ -40,7 +40,7 @@ Gremlin is also easy to try out more at the AWS marketplace: https://aws.amazon.
 Lab Environments 
 * Gremlin Playground https://github.com/gremlin/gremlin-playground
 * How to Install and Use Gremlin Locally with Docker Desktop https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/
-* How to Install and Use Gremlin with Google Cloud Shell (for free) https://tammybutow.medium.com/chaos-engineering-what-happens-when-your-banking-transactions-are-in-a-black-hole-567bea951663 
+* How to Install and Use Gremlin with Google Cloud Shell and Kubernetes (for free) https://tammybutow.medium.com/chaos-engineering-what-happens-when-your-banking-transactions-are-in-a-black-hole-567bea951663 
 
 We wish you the best of luck preparing for your examination! 
 

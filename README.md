@@ -11,7 +11,7 @@ To prepare for this exam, we recommend both learning about Chaos Engineering and
 
 Gremlin has some very easy to use Chaos Engineering tools/scenarios at https://www.gremlin.com/ , e.g. Blackhole to drop all matching network traffic in a safe scenario test. You can sign-up for a Gremlin account for exam purposes here: gremlin.com/buttons.  
 
-Gremlin is also easy to try out more at the AWS marketplace: https://lnkd.in/gBCdAm4 (Free Edition: 1 Team, 1 Agent, 2 Attacked Targets Monthly, Unlimited Attacks; cost = $0!)
+Gremlin is also easy to try out more at the AWS marketplace: https://aws.amazon.com/marketplace/pp/prodview-tosyg6v5cyney?qid=1623737218823&sr=0-1&ref_=srh_res_product_title (Free Edition: 1 Team, 1 Agent, 2 Attacked Targets Monthly, Unlimited Attacks; cost = $0!)
 
 
 # Recommended Reading 

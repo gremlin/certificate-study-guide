@@ -1,6 +1,7 @@
 # A Guide To Prepare for the Gremlin Certified Chaos Engineering Practitioner Exam 
 
 The exam covers 20 questions and will take you approximately 30min to complete. 
+You can enroll for free here: https://www.gremlin.com/certification/
 
 The topics covered in the exam include:
 

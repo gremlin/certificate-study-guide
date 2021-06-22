@@ -14,6 +14,10 @@ Gremlin has some very easy to use Chaos Engineering tools/scenarios at https://w
 
 Gremlin is also easy to try out more at the AWS marketplace: https://aws.amazon.com/marketplace/pp/prodview-tosyg6v5cyney?qid=1623737218823&sr=0-1&ref_=srh_res_product_title (Free Edition: 1 Team, 1 Agent, 2 Attacked Targets Monthly, Unlimited Attacks; cost = $0!)
 
+# Lab Environments 
+* Gremlin Playground https://github.com/gremlin/gremlin-playground
+* How to Install and Use Gremlin Locally with Docker Desktop https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/
+* How to Install and Use Gremlin with Google Cloud Shell and Kubernetes (for free) https://tammybutow.medium.com/chaos-engineering-what-happens-when-your-banking-transactions-are-in-a-black-hole-567bea951663 
 
 # Recommended Reading 
 
@@ -38,10 +42,7 @@ Gremlin is also easy to try out more at the AWS marketplace: https://aws.amazon.
 * Database Chaos with Tammy Butow: https://softwareengineeringdaily.com/2018/04/10/database-chaos-with-tammy-butow/ 
 * Incident Reproduction with Tammy Butow: https://softwareengineeringdaily.com/2019/10/16/incident-reproduction-with-tammy-butow/ 
 
-Lab Environments 
-* Gremlin Playground https://github.com/gremlin/gremlin-playground
-* How to Install and Use Gremlin Locally with Docker Desktop https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/
-* How to Install and Use Gremlin with Google Cloud Shell and Kubernetes (for free) https://tammybutow.medium.com/chaos-engineering-what-happens-when-your-banking-transactions-are-in-a-black-hole-567bea951663 
+
 
 We wish you the best of luck preparing for your examination! 
 

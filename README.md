@@ -9,7 +9,9 @@ The topics covered in the exam include:
 
 To prepare for this exam, we recommend both learning about Chaos Engineering and using Gremlin to learn by doing. 
 
-Gremlin has some very easy to use Chaos Engineering tools/scenarios at https://www.gremlin.com/ , e.g. Blackhole to drop all matching network traffic in a safe scenario test. You can sign-up for a Gremlin account for exam purposes here: gremlin.com/buttons.  Gremlin is also easy to try out more at the AWS marketplace: https://lnkd.in/gBCdAm4 (Free Edition: 1 Team, 1 Agent, 2 Attacked Targets Monthly, Unlimited Attacks; cost = $0!)
+Gremlin has some very easy to use Chaos Engineering tools/scenarios at https://www.gremlin.com/ , e.g. Blackhole to drop all matching network traffic in a safe scenario test. You can sign-up for a Gremlin account for exam purposes here: gremlin.com/buttons.  
+
+Gremlin is also easy to try out more at the AWS marketplace: https://lnkd.in/gBCdAm4 (Free Edition: 1 Team, 1 Agent, 2 Attacked Targets Monthly, Unlimited Attacks; cost = $0!)
 
 
 # Recommended Reading 

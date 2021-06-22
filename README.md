@@ -38,7 +38,7 @@ Gremlin is also easy to try out more at the AWS marketplace: https://aws.amazon.
 * Incident Reproduction with Tammy Butow: https://softwareengineeringdaily.com/2019/10/16/incident-reproduction-with-tammy-butow/ 
 
 Lab Environments 
-* Gremlin Playground
+* Gremlin Playground https://github.com/gremlin/gremlin-playground
 * How to Install and Use Gremlin Locally with Docker Desktop https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/
 * How to Install and Use Gremlin with Google Cloud Shell (for free) https://tammybutow.medium.com/chaos-engineering-what-happens-when-your-banking-transactions-are-in-a-black-hole-567bea951663 
 
